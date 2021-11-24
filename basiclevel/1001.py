@@ -2,6 +2,7 @@
 Author: Yufan Li (yufan.l@hotmail.com)
 PAT (Basic Level) Practice
 1001 害死人不偿命的(3n+1)猜想
+score: 15 out of 15
 """
 
 count = 0

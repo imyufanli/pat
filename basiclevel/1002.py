@@ -2,6 +2,7 @@
 Author: Yufan Li (yufan.l@hotmail.com)
 PAT (Basic Level) Practice
 1002 写出这个数
+score: 15 out of 15
 """
 
 
